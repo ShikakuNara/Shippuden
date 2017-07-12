@@ -14,6 +14,8 @@ The output contains all the roots (real and complex) and a  graph of the given p
 
 ## Gauss-Seidel Method Implementation
 
-
+The program implements gauss-seidel method with relaxation to solve linear euations in n variables. The coeffecients are taken as input as an nXn matrix along with the constants, and a system of n equation of the form a1x1 + a2x2 + a3x3 ..... anxn + c=0 and approximates the values to a certain accepted value of error taken as input. 
 
 ## Integration of a particular 2nd order differential Equation via Implementing Euler's Method - Heun's Method - 4th Order Runge-Kutta Method.
+
+The program implements Euler's method , Heun's Method and Fourth Order Runge-Kutta method to solve a predefined 2nd order Differential Equation by decomposing the equation into a system of two 1st order Differential equations.
